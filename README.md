@@ -11,3 +11,7 @@ Nesse desafio foi dado um código que estava desalinhado como mostra a imagem ab
 O objetivo foi organizar e deixar o layout igual ao feito em aula.
 
 ![CPT2206270154-1879x970](https://user-images.githubusercontent.com/65739291/175862910-695dca1d-ba68-48e7-89df-5dfc7038ad01.gif)
+
+Link do projeto completo: [https://treineme.netlify.app](url)
+
+Esta é uma aplicação que foi desenvolvida com 💜 por Thiago Lucas. ... Projeto feito através da @Rocketseat.
